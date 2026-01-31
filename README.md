@@ -2,10 +2,10 @@
 
 ## 🧑‍💻 About Me
 
-I’m **Supun Hasanka**, a **Junior Java Full-Stack Engineer** with a strong foundation in **software engineering** and a growing specialization in **cybersecurity-aware system design**.
+I’m **Supun Hasanka**, a **Java Full-Stack Engineer** with a strong foundation in **software engineering** and a growing specialization in **cybersecurity-aware system design**.
 
 I hold a **BSc (Hons) in Software Engineering (2:1)** and am currently pursuing an **MSc in Cybersecurity at the University of the West of Scotland (UWS)**.  
-My focus is on building **scalable, high-performance applications** while applying **secure-by-design principles, risk awareness, and good engineering discipline** — particularly relevant in **regulated and mission-critical environments**.
+My focus is on building **scalable, high-performance applications** while applying **secure-by-design principles, risk awareness, and good engineering discipline** - particularly relevant in **regulated and mission-critical environments**.
 
 ---
 
