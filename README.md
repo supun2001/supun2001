@@ -61,17 +61,6 @@ My focus is on building **scalable, high-performance applications** while applyi
 - Incident response awareness
 - Governance, Risk & Compliance (GRC)
 
----
-
-## 📂 What You’ll Find in My Repositories
-
-- **Java & Spring Boot** backend projects
-- **Full-stack applications** (React + REST APIs)
-- Secure authentication & authorization implementations
-- Scalable system and API designs
-- Security-aware engineering projects and labs
-- University and independent projects with clear documentation
-
 > All work is **ethical, legal, and permission-based**.
 
 ---
