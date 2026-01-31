@@ -1,95 +1,88 @@
 # 👋 Hi, I’m Supun Hasanka
 
-## 🧑‍💻 Who Am I?
+## 🧑‍💻 About Me
 
-I’m **Supun Hasanka**, a cybersecurity learner and SOC-focused practitioner currently pursuing my **MSc in Cybersecurity at the University of the West of Scotland (UWS), Scotland**.
+I’m **Supun Hasanka**, a **Junior Java Full-Stack Engineer** with a strong foundation in **software engineering** and a growing specialization in **cybersecurity-aware system design**.
 
-I hold a **BSc (Hons) in Software Engineering (2:1)** and have a strong interest in building practical, real-world security skills that bridge **offensive and defensive security**.
-
-I enjoy working on hands-on labs, security research, and projects that simulate real SOC and attacker scenarios.
+I hold a **BSc (Hons) in Software Engineering (2:1)** and am currently pursuing an **MSc in Cybersecurity at the University of the West of Scotland (UWS)**.  
+My focus is on building **scalable, high-performance applications** while applying **secure-by-design principles, risk awareness, and good engineering discipline** — particularly relevant in **regulated and mission-critical environments**.
 
 ---
 
-## 🚀 What I’m Currently Doing
+## 🚀 What I’m Currently Working On
 
-- Pursuing **MSc in Cybersecurity** (2025 - 2026)
-- Actively participating in the **HackerOne Bug Bounty Program** as a beginner  
-  ([profile link](https://hackerone.com/supun_hasanka?type=user))
-- Building **SOC-style labs** (SIEM, detection, log analysis)
-- Developing **secure web applications** using MERN stacks
-- Building **personalized AI projects** for automation and analysis
+### 💻 Software Engineering (Primary Focus)
+- Building **Java & Spring Boot backend services** with RESTful APIs
+- Developing **full-stack applications** using React
+- Applying **microservices principles**, clean architecture, and design patterns
+- Implementing **secure authentication & RBAC**
+- Writing **unit/integration tests** and working in **Agile/Scrum** teams
+- Exploring **CI/CD, Docker, and system monitoring concepts**
 
-## 🛠️ Tools & Technologies I Use
+### 🔐 Cybersecurity (Supporting Strength)
+- Completing an **MSc in Cybersecurity** *(2025–2026)*
+- Applying **secure coding, threat-aware design, and risk controls** to applications
+- Hands-on exposure to **penetration testing, incident response, and SIEM concepts**
+- Understanding **GRC, security law, and compliance requirements**
+- Learning how security integrates with **software delivery and operations**
 
-### 🔐 Bug Bounty & Offensive Security
-- Burp Suite
-- CAIDO
-- Nmap
-- OWASP ZAP
-- Amass
-- Subfinder
-- FFUF
-- HTTPX
-- Personalized own python scripts
-- HackerOne platform
+---
 
-### 🛡️ SOC & Blue Team
-- Wazuh (SIEM / EDR)
-- OpenSearch / Dashboards
-- OpenCanary
-- Canarytokens
-- Wireshark
-- Sysmon
-- MITRE ATT&CK framework
+## 🛠️ Technologies & Skills
 
-### 🦠 Malware Analysis & Threat Research
-- YARA
-- VirusTotal
-- PEStudio
-- Ghidra (basic analysis)
-- Static & dynamic analysis concepts
-- Sandbox-based analysis workflows
+### ☕ Backend & Full-Stack Development
+- **Java**, Spring Boot, REST APIs
+- Microservices concepts
+- SQL & NoSQL (MongoDB)
+- Authentication & Role-Based Access Control (RBAC)
+- Performance optimisation & concurrency concepts
 
-### 💻 Software Engineering & Development
-- **MERN Stack** (MongoDB, Express.js, React, Node.js)
-- Python
-- REST API design
-- Authentication & authorization
-- Secure backend development
-- Docker (basic usage)
+### 🌐 Frontend
+- React.js
+- JavaScript, HTML, CSS
+- API-driven UI development
+
+### 🧪 Testing & Quality
+- JUnit, Jest
+- Test-Driven Development (TDD)
+- Code reviews & refactoring
+- Agile / Scrum workflows
+
+### ⚙️ DevOps & Systems (Foundational)
 - Git & GitHub
+- CI/CD (GitLab)
+- Docker (basic)
+- High-availability & monitoring concepts
 
-### 📐 Software Engineering Concepts
-- Object-Oriented Programming (OOP)
-- Software Development Life Cycle (SDLC)
-- Secure coding principles
-- API security
-- Design patterns (basic understanding)
-
----
-
-## 🧪 What You’ll Find in My Repositories/Portfolio
-
-- SOC-style detection and investigation labs
-- Deception engineering (honeypots & traps)
-- Bug bounty learning notes and labs
-- Secure backend and full-stack projects
-- Final year and academic projects
-- Documentation-focused, reproducible setups
-
-> ⚠️ All security work is **ethical, legal, and permission-based**.  
-> No malware, no exploitation of real organisations, no harm.
+### 🔐 Security & Risk Awareness
+- Secure coding practices
+- Applied cryptography fundamentals
+- Penetration testing concepts
+- Incident response awareness
+- Governance, Risk & Compliance (GRC)
 
 ---
 
-## 📫 How to Reach Me
+## 📂 What You’ll Find in My Repositories
 
-- Email: **supun2001hasanka.com**
-- Portfolio: **https://supunhasanka.tech/**
-- Blog: **https://supunhasanka.tech/blog**
-- LinkedIn: **https://linkedin.com/in/your-linkedin**
+- **Java & Spring Boot** backend projects
+- **Full-stack applications** (React + REST APIs)
+- Secure authentication & authorization implementations
+- Scalable system and API designs
+- Security-aware engineering projects and labs
+- University and independent projects with clear documentation
+
+> All work is **ethical, legal, and permission-based**.
 
 ---
 
-*If you find my projects useful, feel free to star or fork them!*  
-I’m always learning, experimenting, and improving 
+## 📫 Get in Touch
+
+- 📧 Email: **supun2001hasanka@gmail.com**
+- 🌐 Portfolio: **https://supunhasanka.tech**
+- 📝 Blog: **https://supunhasanka.tech/blog**
+- 💼 LinkedIn: **https://linkedin.com/in/supun-hasanka-908741186**
+
+---
+
+*Software engineer by discipline, security-aware by design. Always learning and improving.*
