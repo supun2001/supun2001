@@ -67,7 +67,7 @@ My main focus is **backend and secure software engineering** — designing maint
 
 ---
 
-## 🤖 Current MSc Project — Niro AI
+## 🤖 Current MSc Project - Niro AI
 
 ### AI-Driven Software Dependency & Cyber Threat Intelligence Analysis
 
@@ -90,7 +90,7 @@ The project focuses on **evidence-based candidate zero-day risk analysis** rathe
 
 ## 🏗️ Engineering Experience
 
-### Full-Stack Development
+### Full-Stack Development 
 
 Worked on client-facing applications involving:
 
@@ -103,7 +103,7 @@ Worked on client-facing applications involving:
 * Cloud services
 * Debugging and application maintenance
 
-### Real-Time Monitoring Systems
+### Real-Time Flood Monitoring Systems
 
 Worked within the **Centre for Defence Research & Development, Ministry of Defence, Sri Lanka** on an early flood-warning platform involving:
 
