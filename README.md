@@ -1,170 +1,102 @@
 # 👋 Hi, I’m Supun Hasanka
 
-### 💻 Software Engineer | Java & Python Backend Development | MSc Cybersecurity
+### 🤖 AI Engineer | Production RAG & LLM Applications | Python & Cloud Engineering
 
-I’m a **Software Engineering graduate** with practical experience building **backend and full-stack applications** using **Java, Python, Flask, JavaScript, React, REST APIs, SQL and NoSQL databases**.
+I build **AI-powered applications**, connecting language models, data and backend services to solve practical customer problems.
 
-I hold a **BSc (Hons) Software Engineering (2:1)** from the University of Plymouth and am completing an **MSc in Cybersecurity at the University of the West of Scotland**.
+My experience spans **production RAG systems, full-stack development, cloud deployment and secure software engineering**. I’ve worked directly with customers to translate requirements into working software, delivered **80+ REST API endpoints**, and supported applications running on AWS.
 
-My main focus is **backend and secure software engineering** — designing maintainable APIs, application logic, database integrations and cloud-connected systems while applying secure coding and software engineering best practices.
+I hold an **MSc in Cybersecurity with Distinction** from the University of the West of Scotland and a **BSc (Hons) in Software Engineering (2:1)** from the University of Plymouth.
 
----
+## 🚀 What I Build
 
-## 🚀 What I Work With
-
-### ⚙️ Backend Engineering
-
-* Java
-* Python
-* Flask
-* RESTful APIs
-* Object-Oriented Programming
-* Authentication, JWT, OAuth 2.0 & RBAC
-* SQL & NoSQL databases
-* API integration and backend architecture
-
-### 🌐 Frontend Development
-
-* React
-* JavaScript
-* TypeScript
-* HTML & CSS
-* REST API integration
-* Responsive web interfaces
-
-### ☁️ Cloud & DevOps
-
-* Microsoft Azure
-* AWS
-* Docker
-* Git & GitHub
-* CI/CD
-* GitHub Codespaces
-* Linux
-* Application monitoring & logging
-
-### 🧪 Testing & Engineering Practices
-
-* pytest
-* JUnit
-* Unit & integration testing
-* Debugging & troubleshooting
-* Code reviews
-* Refactoring
-* Clean code
-* Agile / Scrum
-
-### 🔐 Secure Software Engineering
-
-* OWASP Top 10
-* Secure coding
-* Authentication & access control
-* Vulnerability management
-* Cyber Threat Intelligence
-* Incident response fundamentals
-* Cloud security
-* Penetration testing concepts
-
----
-
-## 🤖 Current MSc Project - Niro AI
-
-### AI-Driven Software Dependency & Cyber Threat Intelligence Analysis
-
-I designed and developed an **AI-assisted dependency risk analysis platform** that combines software dependency information with public vulnerability intelligence.
-
-**Tech:** `Python` · `Flask` · `React` · `Vite` · `Qwen3.5-9B` · `LoRA` · `PyTorch` · `Transformers` · `PEFT`
-
-The system:
-
-* Analyses `package.json` and lock files to extract software dependencies and versions.
-* Uses historical **CVE and public CTI data** to identify vulnerability evidence.
-* Processes approximately **10 years of public CVE records (2016–2026)** using Python data-processing pipelines.
-* Uses a **Qwen3.5-9B + LoRA** workflow for structured vulnerability analysis.
-* Generates risk levels, confidence scores, vulnerability evidence and remediation recommendations.
-* Provides results through a **React frontend connected to a Flask REST API backend**.
-
-The project focuses on **evidence-based candidate zero-day risk analysis** rather than claiming to predict confirmed future zero-day vulnerabilities.
-
----
+- **LLM and RAG applications:** Integrating language models, embeddings and retrieval into customer-facing software.
+- **Backend services:** Building APIs, application logic and data integrations using Python, Flask, FastAPI and Java.
+- **Cloud applications:** Deploying and supporting software with AWS, Azure, Docker and monitoring tools.
+- **Secure systems:** Applying authentication, access control, input validation and evidence-based security analysis.
 
 ## 🏗️ Engineering Experience
 
-### Full-Stack Development 
+### AI Developer — Klaynz Technologies
+**July 2023 – July 2026 · Remote**
 
-Worked on client-facing applications involving:
+- Worked directly with customers to understand requirements and deliver full-stack applications.
+- Built and deployed **production retrieval-augmented generation (RAG) systems** for customer-facing software.
+- Developed Java, Python and Flask backend services, delivering **80+ REST API endpoints** connected to SQL-backed workflows.
+- Deployed applications using **AWS EC2, S3, RDS and CloudWatch**, supporting monitoring and production troubleshooting.
+- Implemented **JWT, OAuth 2.0, role-based access control and input validation**.
+- Tested backend services with pytest and improved code through debugging and peer reviews.
+- Mentored **three engineering interns over four months** through code reviews, technical guidance and project work.
 
-* Java & Python backend development
-* Flask APIs
-* REST API development and integration
-* SQL & NoSQL databases
-* Authentication and RBAC
-* Git/GitHub workflows
-* Cloud services
-* Debugging and application maintenance
+### Software Engineer Intern — Ministry of Defence, Sri Lanka
+**Centre for Defence Research & Development · October 2022 – July 2023**
 
-### Real-Time Flood Monitoring Systems
+Contributed to an **early flood-warning platform** using Python and Azure.
 
-Worked within the **Centre for Defence Research & Development, Ministry of Defence, Sri Lanka** on an early flood-warning platform involving:
+- Connected **Azure IoT Hub and Azure Functions** to process environmental sensor readings at one-minute intervals.
+- Validated and transformed sensor data into hourly aggregates and historical summaries.
+- Supported rainfall and river-level alerts through data-processing workflows.
+- Investigated abnormal readings and data-flow failures using application logs.
 
-* Real-time sensor-data processing
-* Azure IoT Hub
-* Azure Functions
-* Monitoring and logging
-* Data validation
-* Reliability-focused software engineering
+## 🔬 Featured Project — Niro AI
 
----
+### AI-Assisted Cyber Threat Intelligence & Dependency Risk Analysis
+**MSc Research Project · 2026**
+
+Built an application that combines software dependency information with public vulnerability intelligence to produce **structured, evidence-backed risk reports**.
+
+**Tech:** `Python` · `Flask` · `React` · `Vite` · `Qwen3.5-9B` · `PyTorch` · `Transformers` · `PEFT` · `LoRA`
+
+- Parses `package.json` and lockfiles to extract dependencies and versions.
+- Processes public CVE intelligence into structured datasets containing affected products, severity metrics, vulnerability types and source references.
+- Prepares instruction/input/output examples for a **LoRA adaptation workflow**.
+- Integrates local LLM inference with dependency parsing, vulnerability processing and risk scoring.
+- Presents affected packages, known CVEs, patch status and remediation recommendations through a React dashboard.
+- Incorporates **source evidence, explicit uncertainty and human review** into the analysis workflow.
+
+The research explores candidate vulnerability risks; it does not claim to predict or confirm future zero-day vulnerabilities.
 
 ## 🛠️ Tech Stack
 
-**Languages**
+| Area | Technologies |
+|---|---|
+| **Languages** | Python, Java, JavaScript, TypeScript, SQL |
+| **AI & Data** | RAG, LangChain, Chroma, Ollama, Qwen, Llama, embeddings, pandas |
+| **Model Adaptation** | PyTorch, Hugging Face Transformers, PEFT, LoRA |
+| **Backend** | Flask, FastAPI, Node.js, Express.js, REST APIs |
+| **Frontend** | React, Vite, HTML, CSS |
+| **Databases** | PostgreSQL, MySQL, MongoDB |
+| **AWS** | EC2, S3, RDS, CloudWatch |
+| **Azure** | Functions, IoT Hub, App Services, Monitor |
+| **Delivery & Testing** | Docker, Git, GitHub, CI/CD, Linux, pytest |
+| **Security** | JWT, OAuth 2.0, RBAC, OWASP Top 10, vulnerability analysis |
 
-`Java` `Python` `JavaScript` `TypeScript` `SQL`
+## 🎓 Education & Training
 
-**Backend**
+- **MSc Cybersecurity — Distinction**  
+  University of the West of Scotland · 2025–2026
+- **BSc (Hons) Software Engineering — 2:1**  
+  University of Plymouth · 2021–2024
+- **AI Engineer for Developers Associate — DataCamp**  
+  October 2026
 
-`Flask` `Node.js` `Express.js` `REST APIs`
+Additional training in **Prompt Engineering with the OpenAI API, Working with Hugging Face and LLMOps Concepts**.
 
-**Frontend**
+## 🎯 Current Focus
 
-`React` `Vite` `HTML` `CSS`
-
-**Databases**
-
-`MongoDB` `PostgreSQL` `MySQL`
-
-**Cloud & DevOps**
-
-`Azure` `AWS` `Docker` `Git` `GitHub` `CI/CD` `Linux`
-
-**AI & Cybersecurity**
-
-`PyTorch` `Qwen` `LoRA` `RAG` `OWASP` `CTI` `Vulnerability Management`
-
----
-
-## 🎯 Currently Focused On
-
-* Strengthening **Java backend development**
-* Building production-style applications with **Python & Flask**
-* Improving **data structures and algorithms**
-* Designing scalable **REST APIs**
-* Building secure backend systems
-* AWS & cloud engineering
-* Docker and CI/CD
-* Secure software development
-* AI-assisted cybersecurity applications
-
----
+- Building reliable **LLM applications and RAG pipelines**
+- Evaluating retrieval quality and model outputs
+- Developing **customer-facing AI solutions**, from requirements to deployment
+- Strengthening cloud deployment, monitoring and LLMOps practices
+- Applying AI to cybersecurity with clear evidence and measurable results
 
 ## 📫 Connect With Me
 
-📧 **Email:** [supun2001hasanka@gmail.com](mailto:supun2001hasanka@gmail.com)
-🌐 **Portfolio:** [supunhasanka.tech](https://supunhasanka.tech)
-📝 **Blog:** [supunhasanka.tech/blog](https://supunhasanka.tech/blog)
-💼 **LinkedIn:** [linkedin.com/in/supun-hasanka-908741186](https://linkedin.com/in/supun-hasanka-908741186)
+- 📧 **Email:** [supun2001hasanka@gmail.com](mailto:supun2001hasanka@gmail.com)
+- 🌐 **Portfolio:** [supunhasanka.tech](https://supunhasanka.tech)
+- 📝 **Blog:** [supunhasanka.tech/blog](https://supunhasanka.tech/blog)
+- 💼 **LinkedIn:** [supun-hasanka-908741186](https://linkedin.com/in/supun-hasanka-908741186)
 
 ---
 
-> **Software engineer by discipline. Security-aware by design. Always building, learning and improving.**
+> Building practical AI applications with secure engineering and customer needs at the centre.
